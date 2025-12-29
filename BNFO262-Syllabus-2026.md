@@ -116,7 +116,7 @@ There will be a feedback survey posted to Canvas on Thurs at 9:00 am each week. 
 
 We will allot students at most three passes to submit surveys late, by the end of the quarter. We will give half credit (2.5/5 points) for every additional survey (beyond the first three) that are submitted late.
 
-To receive late credit for a survey, you must submit it by March 19, 2026 at 11:59 pm.
+To receive late credit for a survey, you must submit it by March 17, 2026 at 9:00 AM.
 
 ## What's the policy on collaboration and plagiarism?
 Plagiarism will not be tolerated. Do not copy and paste answers from the internet, and make sure all answers on homework and exams are completely in your own words.
