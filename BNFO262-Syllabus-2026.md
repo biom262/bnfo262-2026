@@ -16,12 +16,11 @@ BNFO262/BGGN237/BIOM262 is designed to teach experimental and analytical approac
 **Teaching Assistant 2:** Jenny Dong (wed009@ucsd.edu)<br>
 **Teaching Assistant 3:** Noa Popko (nopopko@ucsd.edu)<br>
 **Teaching Assistant 4:** Christopher Brown (crb003@ucsd.edu)<br>
+> :warning: **Note:** We will be using Piazza as our primary method of communication for this course!<br>You can access the course Piazza through Canvas or using [this link](https://piazza.com/ucsd/winter2026/bnfo262bggn237biom262).
 
 ### Lecturers
 As each module is taught by a separate lecturer, their contact information is provided in the syllabus table:
 <img width="1064" height="461" alt="bnfo262-schedule" src="https://github.com/user-attachments/assets/2a83e3f0-2286-4d0f-aa3b-5b228292e9f9" />
-
-> :warning: **Note:** We will be using Piazza as our primary method of communication for this course!<br>You can access the course Piazza through Canvas or using [this link](https://piazza.com/ucsd/winter2026/bnfo262bggn237biom262).
 
 ## Course prerequisites
 Students should have at least an introductory knowledge of genetics, so classes in genetics are listed as official prerequisites for the course.
