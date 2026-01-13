@@ -6,7 +6,9 @@ In this module, we will cover some of the basic concepts in statistics (e.g., po
 
 ## Presentation Slides
 
-* **Lecture Slides**: *TBA*
+* **Lecture Slides**: [Google Slides Link](https://docs.google.com/presentation/d/1urXJpm2k8H_Udar_Y4tPYIE3p83wG4lcUS512vFoMi0/edit?usp=sharing)
+
+The presentation slides have also been uploaded to this directory as `00_Introduction-to-Statistics_Lecture-Slides.pdf`!
 
 ## Lecture Recordings
 
