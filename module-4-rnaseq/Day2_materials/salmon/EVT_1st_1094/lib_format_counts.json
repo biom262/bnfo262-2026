@@ -1,0 +1,22 @@
+{
+    "read_files": "[ EVT_1st_1094_S38_R1.fastq.gz, EVT_1st_1094_S38_R2.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 29118185,
+    "num_assigned_fragments": 29118185,
+    "num_frags_with_concordant_consistent_mappings": 22439469,
+    "num_frags_with_inconsistent_or_orphan_mappings": 6935091,
+    "strand_mapping_bias": 0.000006328095438018066,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 142,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 22439469,
+    "SF": 3886623,
+    "SR": 3048326,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

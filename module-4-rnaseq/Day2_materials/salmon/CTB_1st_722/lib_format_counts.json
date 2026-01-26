@@ -1,0 +1,22 @@
+{
+    "read_files": "[ CTB_1stE_722_R1.fastq.gz, CTB_1stE_722_R2.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 35422219,
+    "num_assigned_fragments": 35422219,
+    "num_frags_with_concordant_consistent_mappings": 28452151,
+    "num_frags_with_inconsistent_or_orphan_mappings": 7257345,
+    "strand_mapping_bias": 0.000006677833644690256,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 190,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 28452151,
+    "SF": 4085227,
+    "SR": 3171928,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

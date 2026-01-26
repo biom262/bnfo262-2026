@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.9.0",
+    "index": "/home/rmorey/salmon/gencode_index/",
+    "libType": "A",
+    "mates1": "EVT_1st_1094_S38_R1.fastq.gz",
+    "mates2": "EVT_1st_1094_S38_R2.fastq.gz",
+    "threads": "13",
+    "gcBias": [],
+    "output": "salmon_quant_output/EVT_1st_1094_S38_quant",
+    "auxDir": "aux_info"
+}
