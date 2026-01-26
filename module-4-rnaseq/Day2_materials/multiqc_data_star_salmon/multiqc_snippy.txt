@@ -1,2 +1,0 @@
-Sample	Variant-COMPLEX	Variant-DEL	Variant-INS	Variant-SNP	VariantTotal
-slurm-28028238_3	0	0	0	0	0
