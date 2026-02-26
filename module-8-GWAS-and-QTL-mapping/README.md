@@ -4,5 +4,5 @@ Within this module, we'll be covering some of the basic concepts of Genome-Wide 
 ## Presentation Slides
 [Day 1](https://ucsdcloud-my.sharepoint.com/:p:/g/personal/jjauregu_ucsd_edu/IQCiyhQvJF7HSIhdO0E5YyraARqYIP2PykXQQlw-MB_So-I?e=BzXmrA)
 
-Day 2: TBD
+[Day 2](https://ucsdcloud-my.sharepoint.com/:p:/g/personal/jjauregu_ucsd_edu/IQCyDUe-Ac-JT6UwXiDXRBZNAbu5KDugLQRHHu5floGNlfg?e=TF0ZIO)
 
