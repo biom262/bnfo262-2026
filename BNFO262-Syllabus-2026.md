@@ -123,6 +123,18 @@ Plagiarism will not be tolerated. Do not copy and paste answers from the interne
 
 Questions may be discussed with classmates but all work must be done individually.
 
+### Policy on Use of Generative AI for Homework
+
+The power of generative AI as a learning aid and a tool for modern research is undeniable. We believe that any tool that can enable researchers is a good tool and, as such, we embrace the use of generative AI in this course. However, we believe it is important that you do not use AI in lieu of taking the necessary time to learn the concepts to grow as a researcher. Therefore, we encourage the use of generative AI for help gaining clarity on a concept, debugging code, and implementation details but discourage asking it to outright solve an entire homework problem.
+
+Finally, we believe that misrepresenting the outputs of a generative model as your own is a form of plagiarism. In addition, it is important to not blindly trust generative AI responses. If you use generative AI, please cite it and explain how you verified results.
+
+
+#### Examples of In-Line Generative AI Citation Examples:
+<i>Claude 4.5 Sonnet, prompt “Generate code to make a histogram” - Verified using documentation at seaborn.pydata.org and min, max, and median values match with shape of histogram.
+
+ChatGPT-5, prompt “Write code to TPM normalize RNA-seq data” - Verified by plotting histogram of read counts and checking that sum of TPMs are equal for all samples.</i>
+
 ## What's the policy on contacting the course instructors and TAs?
 Please use office hours for questions regarding the homework assignments or take-home exams. We also strongly encourage you to post your questions on Piazza rather than emailing the TAs in case there are questions that multiple students have. If you are unable to attend office hours and have a personal question, you are welcome to contact the TAs via a private post on Piazza or through email (sent to all TAs). 
 
